@@ -1,11 +1,13 @@
 ---
-title: Photoswipe Gallery Sample
-subtitle: Making a Gallery
+title: Photoswipe Gallery of My Home
+subtitle: something new I learned today
 date: 2017-03-20
-tags: ["example", "photoswipe"]
+tags: ["my home", "photoswipe"]
 ---
 
-Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
+Hugo allows you to import some additional features created by the community using a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com).
+
+**I found this out and now I need to share it. It is awesome!**
 
 {{< gallery caption-effect="fade" >}}
   {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
