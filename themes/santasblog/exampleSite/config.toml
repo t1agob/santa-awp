@@ -1,0 +1,40 @@
+baseurl = "https://username.github.io"
+DefaultContentLanguage = "en"
+title = "Santa's Diary"
+theme = "santasblog"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[Params]
+  logo = "img/avatar-icon.png"
+  favicon = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = false
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  showRelatedPosts = true
+
+[Author]
+  name = "Santa Claus"
+  website = "santaclaus.com"
+  email = "santa@christmas.com"
+  facebook = "santaclaus"
+  twitter = "santaclaus"
+  
+
+[[menu.main]]
+    name = "Diary"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 2

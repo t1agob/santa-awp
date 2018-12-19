@@ -1,0 +1,3 @@
+[submodule "themes/santasblog"]
+	path = themes/santasblog
+	url = https://github.com/t1agob/santasblog
