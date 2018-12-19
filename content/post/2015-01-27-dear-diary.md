@@ -1,6 +1,12 @@
 ---
-title: Dear diary
+title: Dear diary - Let me tell you about Mrs Claus
 date: 2015-01-27
 ---
 
-What is it with that Mary girl?  Dragging me to school every day. As if I had a choice.  What you don't hear in those nursery rhymes is that she starves me if I don't go to school with her; it's the only way I can stay alive!  I'm thinking about being adopted by Little Bo Peep, sure I may get lost, but anything is better than being with Mary and those little brats at school (shudder, shudder).
+This is my first ever writing on a Diary. You know that during Christmas I do get a lot work but my wife does not understand that. I have the dream job that everyone wished for....working a single day a year and doing nothing the rest of the year.
+
+Still, it requires a lot of preparation and delegation of tasks to my little helpers. Every year, gifts get delivered to kids' homes on time and it requires a lot of team effort.
+
+Still, my wife thinks I'm lazy...that is why I am fat in her mind.
+
+**Awesome**, right?
